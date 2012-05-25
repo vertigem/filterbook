@@ -24,7 +24,13 @@
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
-		<dict/>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>javascripts/jquery.js</string>
+				<string>javascripts/injected.js</string>
+			</array>
+		</dict>
 	</dict>
 	<key>Description</key>
 	<string>Filter words or post from your facebook wall </string>
